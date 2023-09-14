@@ -1,8 +1,6 @@
-ll
-l
-l
-l
-l
+line 1
+line 2
+line 3
 # Chapter 1 Exercises
 
 Exercises with a tick mark :ballot_box_with_check: represent exercises that must be submitted as part of your Programming Skills Portfolio as a minimum expectation. Completing more exercises provides the opportunity to attain higher marks. For each exercise you should create a _**new project**_ with the name of the exercise and save it to this exercises folder in your local repository.
