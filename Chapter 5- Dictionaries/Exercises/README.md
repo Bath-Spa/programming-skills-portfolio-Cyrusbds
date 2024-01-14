@@ -20,31 +20,21 @@ should have keys such as first_name, last_name, age, and city. Print each piece 
 
 A Python dictionary can be used to model an actual dictionary. However, to avoid confusion, let’s call it a glossary.
 
-* Think of five programming words you’ve learned about in the previous chapters. Use these words as the keys in your glossary, and store 
+* Think of five programming words you’ve learned about in the previous chapters. Use these words as the keys in your glossary, and store their meanings as values.
 
-their meanings as values.
-
-* Print each word and its meaning as neatly formatted output. You might print the word followed by a colon and then its meaning, or print 
-
-the word on one line and then print its meaning indented on a second line. Use the newline character (\n) to insert a blank line between 
-
-each word-meaning pair in your output.
+* Print each word and its meaning as neatly formatted output. You might print the word followed by a colon and then its meaning, or print the word on one line and then print its meaning indented on a second line. Use the newline character (\n) to insert a blank line between each word-meaning pair in your output.
 &nbsp;
 &nbsp;
 
 ## Exercise 3: Glossary 2 :ballot_box_with_check:
-Now that you know how to loop through a dictionary, clean up the code from Exercise 6-3 (page 99) by replacing your series of print()
-
-calls with a loop that runs through the dictionary’s keys and values. When you’re sure that your loop works, add five more Python terms 
-
-to your glossary.When you run your program again, these new words and meanings should automatically be included in the output.
+Now that you know how to loop through a dictionary, clean up the code from Exercise 6-3 (page 99) by replacing your series of print() calls with a loop that runs through the dictionary’s keys and values. When you’re sure that your loop works, add five more Python terms to your glossary.When you run your program again, these new words and meanings should automatically be included in the output.
 
 &nbsp;
 &nbsp;
 
 ## Exercise 4: Rivers :ballot_box_with_check:
 
-Make a dictionary containing three major rivers and the country each river runs through. One key-value pair might be 'nile': 'egypt'.
+Make a dictionary containing three major rivers and the country each river runs through. One key-value pair might be "nile": "egypt".
 
 * Use a loop to print a sentence about each river, such as The Nile runs through Egypt.
 
@@ -57,12 +47,7 @@ Make a dictionary containing three major rivers and the country each river runs 
 
 ## Exercise 5: Pets :ballot_box_with_check:
 
-Make several dictionaries, where each dictionary represents a different pet. In each dictionary, include the kind of animal and the
-
-owner’s name. Store these dictionaries in a list called pets. Next, loop through your list and asyou do, print everything you know about 
-
-each pet
-
+Make several dictionaries, where each dictionary represents a different pet. In each dictionary, include the kind of animal and the owner’s name. Store these dictionaries in a list called pets. Next, loop through your list and asyou do, print everything you know about each pet
 
 
 &nbsp;
